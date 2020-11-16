@@ -1,0 +1,38 @@
+-------------------------------------------------------------------------------
+Test set: SanityTests.nopCommerceWeb
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 8, Errors: 0, Skipped: 0, Time elapsed: 5.72 s <<< FAILURE! - in SanityTests.nopCommerceWeb
+test01_register(SanityTests.nopCommerceWeb)  Time elapsed: 0.209 s  <<< FAILURE!
+java.lang.NullPointerException
+	at SanityTests.nopCommerceWeb.test01_register(nopCommerceWeb.java:28)
+
+test02_addToCart(SanityTests.nopCommerceWeb)  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.NullPointerException
+	at SanityTests.nopCommerceWeb.test02_addToCart(nopCommerceWeb.java:37)
+
+test03_removeFromCart(SanityTests.nopCommerceWeb)  Time elapsed: 0.017 s  <<< FAILURE!
+java.lang.NullPointerException
+	at SanityTests.nopCommerceWeb.test03_removeFromCart(nopCommerceWeb.java:45)
+
+test04_sortBy(SanityTests.nopCommerceWeb)  Time elapsed: 0.013 s  <<< FAILURE!
+java.lang.NullPointerException
+	at SanityTests.nopCommerceWeb.test04_sortBy(nopCommerceWeb.java:58)
+
+test05_emptySearchPopup(SanityTests.nopCommerceWeb)  Time elapsed: 0.013 s  <<< FAILURE!
+java.lang.NullPointerException
+	at SanityTests.nopCommerceWeb.test05_emptySearchPopup(nopCommerceWeb.java:71)
+
+test06_Verify(SanityTests.nopCommerceWeb)  Time elapsed: 0.092 s  <<< FAILURE!
+java.lang.RuntimeException: java.lang.NullPointerException
+	at SanityTests.nopCommerceWeb.test06_Verify(nopCommerceWeb.java:92)
+Caused by: java.lang.NullPointerException
+	at SanityTests.nopCommerceWeb.test06_Verify(nopCommerceWeb.java:92)
+
+test07_verifyYaxis(SanityTests.nopCommerceWeb)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException
+	at SanityTests.nopCommerceWeb.test07_verifyYaxis(nopCommerceWeb.java:99)
+
+test08_verifyRssText(SanityTests.nopCommerceWeb)  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.NullPointerException
+	at SanityTests.nopCommerceWeb.test08_verifyRssText(nopCommerceWeb.java:109)
+

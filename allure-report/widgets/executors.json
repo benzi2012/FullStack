@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:9090/",
+  "buildOrder" : 9,
+  "buildName" : "Full Stack Final Project API #9",
+  "buildUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/9/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/9/allure"
+} ]

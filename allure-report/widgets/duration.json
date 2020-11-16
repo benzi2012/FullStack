@@ -1,0 +1,21 @@
+[ {
+  "uid" : "c024aec8a0279af5",
+  "name" : "Test01: Add Section And Verify it",
+  "time" : {
+    "start" : 1605555412644,
+    "stop" : 1605555413901,
+    "duration" : 1257
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c900578a0a4576a8",
+  "name" : "Test02: Get Property From JSON Server",
+  "time" : {
+    "start" : 1605555414002,
+    "stop" : 1605555414634,
+    "duration" : 632
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

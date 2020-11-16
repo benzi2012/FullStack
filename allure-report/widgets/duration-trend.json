@@ -1,0 +1,78 @@
+[ {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 1990
+  }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 341404
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 176756
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 603781733
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 603710828
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 5192107
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 4218746
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 2395008
+  }
+}, {
+  "buildOrder" : 27,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Web/27/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 2124450
+  }
+}, {
+  "buildOrder" : 26,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Web/26/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 6029
+  }
+}, {
+  "buildOrder" : 25,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Web/25/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 7013
+  }
+} ]

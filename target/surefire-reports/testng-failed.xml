@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="API Test(failed)">
+    <parameter name="PlatformName" value="api"/>
+    <classes>
+      <class name="SanityTests.JSONServerAPI">
+        <methods>
+          <include name="startSession"/>
+          <include name="afterMethod"/>
+          <include name="closeSession"/>
+          <include name="test03_updateSectionAndVerify"/>
+          <include name="test04_deleteSection"/>
+        </methods>
+      </class> <!-- SanityTests.JSONServerAPI -->
+    </classes>
+  </test> <!-- API Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Benzi",
+    "children" : [ {
+      "name" : "8324@Benzi.main(1)",
+      "children" : [ {
+        "name" : "Test01: Add Section And Verify it",
+        "uid" : "c024aec8a0279af5",
+        "parentUid" : "1fefd99441ca7cce122621aeb470b68c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605555412644,
+          "stop" : 1605555413901,
+          "duration" : 1257
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test02: Get Property From JSON Server",
+        "uid" : "c900578a0a4576a8",
+        "parentUid" : "1fefd99441ca7cce122621aeb470b68c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605555414002,
+          "stop" : 1605555414634,
+          "duration" : 632
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "1fefd99441ca7cce122621aeb470b68c"
+    } ],
+    "uid" : "3fa50019578d963344f0f53c0abfae6d"
+  } ]
+}

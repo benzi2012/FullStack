@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "API Test",
+      "children" : [ {
+        "name" : "SanityTests.JSONServerAPI",
+        "children" : [ {
+          "name" : "Test01: Add Section And Verify it",
+          "uid" : "c024aec8a0279af5",
+          "parentUid" : "18614a2525f4c3392c5532b89bc35e1b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1605555412644,
+            "stop" : 1605555413901,
+            "duration" : 1257
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        }, {
+          "name" : "Test02: Get Property From JSON Server",
+          "uid" : "c900578a0a4576a8",
+          "parentUid" : "18614a2525f4c3392c5532b89bc35e1b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1605555414002,
+            "stop" : 1605555414634,
+            "duration" : 632
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "api" ]
+        } ],
+        "uid" : "18614a2525f4c3392c5532b89bc35e1b"
+      } ],
+      "uid" : "063b15317be980a2dc754fb7e934e748"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Nov 16 21:36:52 IST 2020","Mon Nov 16 21:36:53 IST 2020","1257","Suite","API Test","SanityTests.JSONServerAPI","SanityTests.JSONServerAPI","test01_addSectionAndVerify","Test01: Add Section And Verify it","Test Description: Add section to JSON server and verify it"
+"passed","Mon Nov 16 21:36:54 IST 2020","Mon Nov 16 21:36:54 IST 2020","632","Suite","API Test","SanityTests.JSONServerAPI","SanityTests.JSONServerAPI","test02_GetProperty","Test02: Get Property From JSON Server","Test Description: Get property from list JSON server"
